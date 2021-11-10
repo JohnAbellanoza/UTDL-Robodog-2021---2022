@@ -1,1 +1,25 @@
+//main for gripper Arduino code
+
+//research for the I/O (Hitarth)
+//research for encoders (should help us find the current angle of a given motor)
+//interfacing arduino 
+
+//jaw control (Anoop)
+//research on how hard to grip
+//research on mopving jaw open/close ()
+
+//computer vision
+//communicate with CV team on interfacing with their code
+
+//post workshop arduino inverse kinematics
+
+
+//main loop
+//use CV object detection
+//translate to coordinates
+//move the arm if its a valid position
+//jaw control to pick up the object
+//fold the arm for stability (further research)
+//return to torso
+
 
